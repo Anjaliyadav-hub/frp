@@ -80,6 +80,6 @@ YOUR_SERVER_IP:6000
 ![image alt](https://raw.githubusercontent.com/NishantDas0079/FRP-Cloud-Computing-/675c0c8e7dac65f035ef5c9386c5e5f6bd6623a8/IMG-20251109-WA0068.jpg)
 
 ----
-![image alt](blob:https://web.whatsapp.com/b232c7e4-3c20-4b49-808c-858f025c84d0)
 
----
+
+
